@@ -1,4 +1,4 @@
-#!/bin/bash -ex
+#!/opt/homebrew/Cellar/bash/5.1.16/bin/bash -ex
 
 nopush=${NOPUSH:-"false"}
 tag=${RELEASE_TAG}
